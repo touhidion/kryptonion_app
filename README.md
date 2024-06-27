@@ -1,2 +1,2 @@
-# kryptonion_app
+# kryptonion
 Advanced management application

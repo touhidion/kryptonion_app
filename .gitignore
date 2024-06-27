@@ -1,0 +1,20 @@
+kryptonion_app_api/node_modules/**
+kryptonion_app_ui/node_modules/**
+
+# testing
+/coverage
+
+# production
+kryptonion_app_api/build
+kryptonion_app_ui/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
