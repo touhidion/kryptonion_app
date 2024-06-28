@@ -28,4 +28,20 @@
 5. **Inst Management Module**
 	- All information Management related to the institution.
 
+
+
+### Employee Module
+	- Admin will add employee
+	- Emloyee will login using credential
+	- Employee can view/manage own progile
+	- Employee can view/manage other sub modules entity according to permission/role
+	
+
+### Student Module
+	- Can register but must be approved by admin/Employee
+	- Admin/employee can add student.
+	- Student can view/manage profile and related info.
+
+
+
 ### Add more here...
