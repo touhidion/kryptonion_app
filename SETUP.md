@@ -20,23 +20,29 @@
    
    ```sh
    git clone <repository-url>
-   cd kryptonion_app```
+   cd kryptonion_app
+   ```
 
+3. **The project has two sub-projects:**
+	- kryptonion_app_api for the backend (Node.js and Express)
+    - kryptonion_app_ui for the frontend (React.js)
 
-
-## Sub-Projects Overview
-
-    - The project has two sub-projects:
-        - kryptonion_app_api for the backend (Node.js and Express)
-        - kryptonion_app_ui for the frontend (React.js)
-
-## Running the Backend Server
-
+4. **Running the Backend Server**
     - Navigate to the kryptonion_app_api directory and run the backend server on PORT 5000.
 	
-	```
+	```sh
 	cd kryptonion_app_api
 	npm install
 	npm start
-
+	```
+5. **Running the Frontend Server**
+    - Navigate to the kryptonion_app_ui directory and run the frontend server on PORT 3000.
+	
+	```sh
+	cd kryptonion_app_ui
+	npm install
+	
+	npm start
+	or,
+	npm run build
 	```
