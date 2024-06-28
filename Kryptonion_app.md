@@ -42,6 +42,21 @@
 	- Admin/employee can add student.
 	- Student can view/manage profile and related info.
 
-
-
+### Inst Management Module
+	- Employee/student attendance Management
+	- All employee/student work, class, test, activity Management
+	- All information Management
+	- Institution Board Management
+	- Celebration, special activity and tour Management
+	- Noticeboard Management
+	- 
+	
+### Finanance Module
+	- Admin Finanance Management
+	- Emloyee Finanance Management
+	- Student Finanance Management
+	- Institution Finanance Management
+	- Other Finanance Management
+	
+	
 ### Add more here...
