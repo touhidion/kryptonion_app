@@ -25,7 +25,7 @@
 4. **Finanance Module**
 	- All information related to Inst Finanance activities.
 
-5. ** Inst Management Module**
+5. **Inst Management Module**
 	- All information Management related to the institution.
 
 ### Add more here...
